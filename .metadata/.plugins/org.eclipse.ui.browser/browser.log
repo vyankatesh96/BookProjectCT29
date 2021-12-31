@@ -1,0 +1,113 @@
+
+Oct 15, 2020 10:31:01.65 NEW SESSION
+Oct 15, 2020 10:31:01.65 [18652:27428:1015/103101.648:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 15, 2020 10:31:05.14 [18652:27428:1015/103105.141:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Oct 16, 2020 11:49:32.97 NEW SESSION
+Oct 16, 2020 11:49:32.97 [3556:26188:1016/114932.969:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Oct 19, 2020 13:29:53.67 NEW SESSION
+Oct 19, 2020 13:29:53.67 [6376:8132:1019/132953.671:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 20, 2020 09:58:01.53 [6376:8132:1020/095801.534:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 20, 2020 09:58:02.06 [6376:8132:1020/095801.558:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Oct 20, 2020 09:58:04.73 [6376:3200:1020/095804.733:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 20, 2020 11:53:28.67 [18072:15928:1020/115328.674:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Oct 20, 2020 11:57:37.61 [18072:15928:1020/115737.615:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Oct 22, 2020 10:37:18.25 NEW SESSION
+Oct 22, 2020 10:37:18.25 [19936:19636:1022/103718.244:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Oct 22, 2020 10:37:44.03 [19936:19636:1022/103744.038:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Oct 22, 2020 10:49:59.86 [16460:18260:1022/104959.859:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Oct 22, 2020 10:53:40.38 [16040:9184:1022/105340.384:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Oct 26, 2020 13:25:04.47 NEW SESSION
+Oct 26, 2020 13:25:04.47 [17792:18668:1026/132504.466:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 26, 2020 15:26:06.78 [17792:18668:1026/152606.787:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 26, 2020 15:26:10.86 [17792:18668:1026/152610.864:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2020 15:26:14.96 [17792:18668:1026/152614.962:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Oct 26, 2020 15:26:14.96 [17792:11892:1026/152614.963:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 27, 2020 08:30:16.17 [17792:8396:1027/083016.171:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 27, 2020 08:30:21.42 [17792:17156:1027/083021.428:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 27, 2020 09:17:28.40 [17792:18668:1027/091728.403:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 27, 2020 11:38:31.80 [8356:19616:1027/113831.807:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2020 11:38:39.30 [8356:19616:1027/113839.302:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 11:38:44.42 [8356:19616:1027/113844.419:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 11:39:30.56 [8356:19616:1027/113930.568:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Oct 29, 2020 11:17:12.52 NEW SESSION
+Oct 29, 2020 11:17:12.52 [23424:3420:1029/111712.514:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 29, 2020 13:12:00.43 [20260:9460:1029/131200.432:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 29, 2020 14:25:40.65 [20260:9460:1029/142540.649:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 29, 2020 16:26:43.08 [20260:9460:1029/162643.083:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 29, 2020 16:26:45.22 [20260:22928:1029/162645.226:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 29, 2020 17:30:04.16 [20260:9460:1029/162648.321:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Oct 29, 2020 17:30:06.26 [20260:31200:1029/173006.264:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Nov 02, 2020 11:03:12.49 NEW SESSION
+Nov 02, 2020 11:03:12.49 [8152:3660:1102/110312.493:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 02, 2020 11:03:12.50 [8152:3660:1102/110312.497:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 02, 2020 12:35:34.19 [8144:14892:1102/123534.196:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 02, 2020 14:36:34.56 [8144:30592:1102/143634.564:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 02, 2020 14:36:38.07 [8144:14892:1102/143638.071:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2020 15:07:01.14 [8144:14892:1102/150701.147:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2020 15:07:06.18 [8144:3100:1102/150706.188:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 02, 2020 15:07:14.68 [8144:14892:1102/150714.685:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 02, 2020 15:07:22.76 [8144:14892:1102/150722.763:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 02, 2020 15:07:22.77 [8144:3100:1102/150722.770:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Nov 03, 2020 10:51:46.31 NEW SESSION
+Nov 03, 2020 10:51:46.31 [32212:9316:1103/105146.310:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 03, 2020 12:21:59.08 [32212:9316:1103/122159.084:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 03, 2020 13:25:48.72 [32212:9316:1103/132548.722:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 03, 2020 14:09:42.27 [32212:9316:1103/140942.274:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 03, 2020 15:30:49.97 [32212:9316:1103/153049.974:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 03, 2020 16:16:00.07 [32212:9316:1103/161600.069:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 03, 2020 17:47:52.22 [32212:9316:1103/174752.210:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 03, 2020 18:10:35.20 [32212:11480:1103/181035.207:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 03, 2020 18:10:36.70 [32212:9316:1103/181036.707:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 03, 2020 18:30:55.34 [32212:9316:1103/183055.346:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Nov 04, 2020 12:33:48.90 NEW SESSION
+Nov 04, 2020 12:33:48.90 [37884:34320:1104/123348.898:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 04, 2020 14:34:50.65 [37884:34320:1104/143450.655:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 04, 2020 14:34:54.12 [37884:34588:1104/143453.999:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 14:34:54.98 [37884:34320:1104/143454.979:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 14:34:58.61 [37884:34116:1104/143458.610:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 17:59:02.43 [37884:26232:1104/175902.432:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 17:59:07.24 [37884:34320:1104/175907.247:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2020 18:35:15.05 [37884:34320:1104/183515.058:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Nov 06, 2020 11:30:15.72 NEW SESSION
+Nov 06, 2020 11:30:15.72 [9880:20648:1106/113015.724:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 06, 2020 11:30:19.05 [9880:20648:1106/113019.059:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 06, 2020 11:30:30.86 [9880:20648:1106/113030.863:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 06, 2020 11:31:22.31 [9880:20648:1106/113122.318:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 06, 2020 11:33:09.27 [9880:20648:1106/113309.273:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 06, 2020 11:33:18.55 [9880:20648:1106/113318.556:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Nov 06, 2020 12:17:54.71 [9880:20648:1106/121754.709:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 06, 2020 16:36:31.92 [9880:20648:1106/163631.928:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Nov 06, 2020 16:36:34.00 [9880:20648:1106/163634.008:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Feb 23, 2021 20:49:40.26 NEW SESSION
+Feb 23, 2021 20:49:40.26 [9156:10348:0223/204940.258:ERROR:gcm_store_impl.cc(638)] LevelDB remove failed: NotFound: 
+Feb 23, 2021 20:49:40.26 [9156:13512:0223/204940.258:ERROR:mcs_client.cc(526)] GCM Update failed!
+Feb 23, 2021 22:16:32.28 [9156:13512:0223/221632.284:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Feb 24, 2021 24:17:34.72 [9156:13512:0224/001734.728:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Feb 24, 2021 24:17:37.92 [9156:13512:0224/001737.920:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2021 11:44:39.65 [9156:6404:0224/114439.648:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 24, 2021 14:08:42.43 [9156:13512:0224/140842.429:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Feb 24, 2021 16:09:43.89 [9156:13512:0224/160943.898:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Feb 24, 2021 16:09:44.10 [9156:13512:0224/160943.944:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 24, 2021 16:09:46.97 [9156:10940:0224/160946.974:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 24, 2021 20:41:21.96 [9156:13512:0224/204121.967:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 24, 2021 20:41:22.39 [9156:10940:0224/204122.393:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 24, 2021 22:12:21.83 [9156:13512:0224/221221.834:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Feb 25, 2021 24:13:21.93 [9156:13512:0225/001321.935:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Feb 25, 2021 13:57:41.95 [9156:13512:0225/135741.957:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Feb 25, 2021 13:57:44.41 [9156:13512:0225/135744.412:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2021 13:57:46.05 [9156:9796:0225/135746.055:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 25, 2021 13:58:10.61 [9156:13512:0225/135810.619:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2021 13:58:58.08 [9156:13512:0225/135858.089:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2021 14:00:45.10 [9156:13512:0225/140045.100:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2021 14:02:08.80 [9156:14948:0225/140208.800:ERROR:gcm_store_impl.cc(638)] LevelDB remove failed: NotFound: 
+Feb 25, 2021 14:02:08.80 [9156:13512:0225/140208.800:ERROR:mcs_client.cc(526)] GCM Update failed!
